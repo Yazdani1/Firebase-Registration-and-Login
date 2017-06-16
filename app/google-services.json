@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005324278453",
+    "firebase_url": "https://registration-and-login-84933.firebaseio.com",
+    "project_id": "registration-and-login-84933",
+    "storage_bucket": "registration-and-login-84933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005324278453:android:29ea589ed8123f2c",
+        "android_client_info": {
+          "package_name": "yazdaniscodelab.firebaseuserregistrationandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005324278453-p7cobqv271g2gq1anb1r91vv28qaa206.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yazdaniscodelab.firebaseuserregistrationandlogin",
+            "certificate_hash": "8bbad294121d3334a8308fc20bd2791ea06aa9c3"
+          }
+        },
+        {
+          "client_id": "1005324278453-m12sftfbgl3mp333r8qshoa9v6l9qcn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhcqlfgEumc6Cl_fzdHObRDs_eWbKNarI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005324278453-m12sftfbgl3mp333r8qshoa9v6l9qcn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
